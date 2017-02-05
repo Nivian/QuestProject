@@ -1,0 +1,11 @@
+C:\Users\Nuno\Desktop\quest-form-project\src\main\java\com\quest\form\config\SpringWebConfig.java
+C:\Users\Nuno\Desktop\quest-form-project\src\main\java\com\quest\form\dao\UserDao.java
+C:\Users\Nuno\Desktop\quest-form-project\src\main\java\com\quest\form\config\SpringDBConfig.java
+C:\Users\Nuno\Desktop\quest-form-project\src\main\java\com\quest\form\service\UserService.java
+C:\Users\Nuno\Desktop\quest-form-project\src\main\java\com\quest\form\exception\GlobalExceptionHandler.java
+C:\Users\Nuno\Desktop\quest-form-project\src\main\java\com\quest\form\model\User.java
+C:\Users\Nuno\Desktop\quest-form-project\src\main\java\com\quest\form\service\UserServiceImpl.java
+C:\Users\Nuno\Desktop\quest-form-project\src\main\java\com\quest\form\dao\UserDaoImpl.java
+C:\Users\Nuno\Desktop\quest-form-project\src\main\java\com\quest\form\web\UserController.java
+C:\Users\Nuno\Desktop\quest-form-project\src\main\java\com\quest\form\validator\EmailValidator.java
+C:\Users\Nuno\Desktop\quest-form-project\src\main\java\com\quest\form\validator\UserFormValidator.java
